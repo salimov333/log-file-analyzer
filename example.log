@@ -1,0 +1,10 @@
+2023-07-01T12:00:00.000Z [INFO] Starting server
+2023-07-01T12:01:00.000Z [ERROR] Failed to connect to database
+2023-07-01T12:02:00.000Z [INFO] Request type: GET
+2023-07-01T12:02:30.000Z [INFO] Request type: POST
+2023-07-01T12:03:00.000Z [WARNING] High memory usage detected
+2023-07-01T12:04:00.000Z [SECURITY] Unauthorized access attempt
+2023-07-01T12:05:00.000Z [DEBUG] Debugging application
+2023-07-01T12:06:00.000Z [INFO] Request type: GET
+2023-07-01T12:07:00.000Z [ERROR] Failed to retrieve data
+2023-07-01T12:08:00.000Z [INFO] Server shutting down
